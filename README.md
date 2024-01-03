@@ -34,5 +34,3 @@ If you are going to use this nuker at least give me credit as it is open source
 
 
 ![Screenshot](https://github.com/SlayerM7/External-Nuker/blob/main/Capture.JPG)
-
-
